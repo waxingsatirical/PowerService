@@ -1,0 +1,12 @@
+*.suo
+*.user
+*.sln.docstates
+*.v11
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Oo]bj/
+**/packages/*
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
